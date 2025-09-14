@@ -1,0 +1,18 @@
+[
+  {
+    "paper_id": "edge-ai-001",
+    "title": "On-Device Inference for Edge AI: Latency and Efficiency",
+    "authors": "A. Kumar; L. Chen; M. Ortiz",
+    "year": 2024,
+    "url": "https://arxiv.org/abs/2401.01234",
+    "abstract": "We investigate on-device inference techniques for edge AI, focusing on quantization, neural processing units (NPUs), and sparsity to reduce latency and energy consumption. Experiments on Snapdragon-class hardware demonstrate efficient embeddings and retrieval for offline applications, with case studies in mobile computer vision and text ranking."
+  },
+  {
+    "paper_id": "wildlife-eco-101",
+    "title": "Acoustic Monitoring for Wildlife: Detecting Species in Noisy Habitats",
+    "authors": "S. Rivera; P. Ndlovu",
+    "year": 2023,
+    "url": "https://arxiv.org/abs/2309.04567",
+    "abstract": "This study presents passive acoustic monitoring methods for wildlife research, using spectrogram features and lightweight classifiers to detect species calls under overlapping environmental noise. We evaluate field deployments and discuss energy-efficient edge devices for remote biodiversity surveys."
+  }
+]
